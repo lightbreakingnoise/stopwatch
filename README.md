@@ -7,5 +7,5 @@
 > ```
 
 <br><br>
-After libraries are installed, you can doubleclick on StopWatch.pyw
+After libraries are installed, you can doubleclick on StopWatch.pyw<br>
 Now with right CTRL Key you can start/stop the time, even when the windows is not focused.
